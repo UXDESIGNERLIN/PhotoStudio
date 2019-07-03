@@ -23,7 +23,7 @@ img {
 .photo-box {
     position: relative;
     height:500px;
-    background-image: url("/image/parallax-layers-1.jpg");
+    background-image: url("../image/parallax-layers-1.jpg");
     background-size: cover;
     background-position: top center;
     background-attachment: fixed;
@@ -33,7 +33,7 @@ img {
 .logo {
     height: 120px;
     width: 100%;
-    background-image: url("/image/Page\ 1logo.svg");
+    background-image: url("../image/Page\ 1logo.svg");
     background-position: center;
     background-repeat: no-repeat;
     position: absolute;
@@ -44,7 +44,7 @@ img {
 .photographer {
     width:800px;
     height: 520px;
-    background-image: url("/image/photographer.png");
+    background-image: url("../image/photographer.png");
     background-color:rgba(0,0,0,0);
     background-repeat: no-repeat;
     background-position: right bottom;
@@ -57,7 +57,7 @@ img {
 .bubble {
     width:522px;
     height:300px;
-    background-image: url("/image/bubble.png");
+    background-image: url("../image/bubble.png");
     background-color:rgba(0,0,0,0);
     background-position: top left;
     position: absolute;
